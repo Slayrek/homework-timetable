@@ -1,0 +1,20 @@
+html, body {
+  margin: 5px;
+  color: white;
+}
+
+table {
+  border: 2px solid #000000;
+}
+
+.easy-lessons {
+  color: #00ff55;
+}
+
+.medium-lessons {
+  color: #ffa600;
+}
+
+.hard-lessons {
+  color: #ff0000;
+}
